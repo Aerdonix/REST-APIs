@@ -1,0 +1,20 @@
+{
+  "name": "rest-apis",
+  "version": "1.0.0",
+  "description": "Just CLI using Mongoose to do REST APIs with thunderclient and a front end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aerdonix/REST-APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aerdonix/REST-APIs/issues"
+  },
+  "homepage": "https://github.com/Aerdonix/REST-APIs#readme"
+}
